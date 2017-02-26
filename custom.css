@@ -1,0 +1,113 @@
+html {
+  background-color: #f5e8f7;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #991527;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+p {
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.imagesize {
+	height: 200px;
+	width: 50%;
+}
+
+.size {
+	height: 200px;
+	width:100%;
+   	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	float: none !important;
+}
+
+h4 {
+	font-weight: bold;
+}
+
+.headersize {
+	font-size: 20px;
+}
+
+.bigicon {
+	font-size: 30px;
+	color: black;
+}
+
+.space {
+	margin-bottom: 10px;
+}
+
+.center-cat {
+	height: 275px;
+	width: 216px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	float: none !important;
+}
+
+.catsize {
+	height: 200px;
+	width: 200px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	float: none !important;
+}
+
+h4 {
+	text-align: center;
+}
